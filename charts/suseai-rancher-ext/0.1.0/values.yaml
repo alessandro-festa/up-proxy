@@ -3,6 +3,10 @@ fullnameOverride: ""
 plugin:
   enabled: true
   versionOverride: ""
+  endpoint: >-
+    https://raw.githubusercontent.com/alessandro-festa/up-proxy/main/extensions/suseai-rancher-ext/0.1.0
+  compressedEndpoint: >-
+    https://raw.githubusercontent.com/alessandro-festa/up-proxy/main/extensions/suseai-rancher-ext/0.1.0.tgz
   noCache: false
   noAuth: false
   metadata:
