@@ -16,12 +16,12 @@ plugin/suseai-rancher-ext-0.1.0.umd.min.38.js
 plugin/suseai-rancher-ext-0.1.0.umd.min.38.js.map
 plugin/suseai-rancher-ext-0.1.0.umd.min.559.js
 plugin/suseai-rancher-ext-0.1.0.umd.min.559.js.map
+plugin/suseai-rancher-ext-0.1.0.umd.min.564.js
+plugin/suseai-rancher-ext-0.1.0.umd.min.564.js.map
 plugin/suseai-rancher-ext-0.1.0.umd.min.587.js
 plugin/suseai-rancher-ext-0.1.0.umd.min.587.js.map
 plugin/suseai-rancher-ext-0.1.0.umd.min.598.js
 plugin/suseai-rancher-ext-0.1.0.umd.min.598.js.map
-plugin/suseai-rancher-ext-0.1.0.umd.min.83.js
-plugin/suseai-rancher-ext-0.1.0.umd.min.83.js.map
 plugin/suseai-rancher-ext-0.1.0.umd.min.851.js
 plugin/suseai-rancher-ext-0.1.0.umd.min.851.js.map
 plugin/suseai-rancher-ext-0.1.0.umd.min.js
